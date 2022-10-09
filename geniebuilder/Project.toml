@@ -1,0 +1,4 @@
+[deps]
+Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
+GenieBuilder = "c9453c14-af8a-11ec-351d-c7c9a2035d70"
+RemoteREPL = "1bd9f7bb-701c-4338-bec7-ac987af7c555"
