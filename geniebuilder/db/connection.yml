@@ -1,0 +1,11 @@
+  env: ENV["GENIE_ENV"]
+
+  dev:
+    adapter:  SQLite
+    database: C:\Users\52282\.julia\geniebuilder\db/client.sqlite3
+    config:
+
+  prod:
+    adapter:  SQLite
+    database: C:\Users\52282\.julia\geniebuilder\db/client.sqlite3
+    config:
